@@ -1,0 +1,28 @@
+html, body {
+	height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 1px 1px 7px #000000;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+a {
+	color: white;
+}
+
+.content {
+    padding-top: 10%;
+}
+
+.logos img {
+	width: 80px;
+}
